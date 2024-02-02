@@ -1,4 +1,4 @@
-# Housing Price Prediction Project
+# Random Forest Housing Price Prediction Project
 
 ## Overview
 This project focuses on predicting housing prices using machine learning models, specifically Random Forest and Decision Tree regressors. The dataset used is sourced from 'housing.csv', containing various features such as location, housing age, and median income.
